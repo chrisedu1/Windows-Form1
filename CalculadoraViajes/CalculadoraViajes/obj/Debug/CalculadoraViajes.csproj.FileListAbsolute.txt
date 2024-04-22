@@ -1,0 +1,10 @@
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\bin\Debug\CalculadoraViajes.exe.config
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\bin\Debug\CalculadoraViajes.exe
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\bin\Debug\CalculadoraViajes.pdb
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.AssemblyReference.cache
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.Form1.resources
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.GenerateResource.cache
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.exe
+C:\Users\CHRIS\Desktop\windowsForm1\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.pdb
